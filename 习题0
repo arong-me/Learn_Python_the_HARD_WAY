@@ -1,1 +1,6 @@
 安装 TextWrangler文本编辑器，并将其放入Dock。
+运行 Terminal（终端），并将其放入Dock。
+在Terminal中输入python，敲击enter健。
+快捷键 “Ctrl + D”退出Python。
+创建一个目录，并切换到这个目录。
+使用TextWrangler在此目录下创建一个文件，并保存在创建的目录下。
